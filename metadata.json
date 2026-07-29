@@ -1,0 +1,6 @@
+{
+  "name": "Educational Platform with Supabase",
+  "description": "An interactive educational platform with courses, practice tests, user progress, and an administrative dashboard powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
